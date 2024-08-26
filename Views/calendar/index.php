@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="tour-list">
                     <div class="tour-item">
-                        <img src="/images/tour_1.jpg" alt="Hạ Long Bay">
+                        <img src="./public/img/calendar/tour_1.jpg" alt="Hạ Long Bay">
                         <div class="tour-info">
                             <h3>Hạ Long Bay</h3>
                             <p><strong>Mã tour:</strong> T001</p>
@@ -16,7 +16,7 @@
                     </div>
             
                     <div class="tour-item">
-                        <img src="/images/tour_2.jpg" alt="Phú Quốc">
+                        <img src="./public/img/calendar/tour_1.jpg" alt="Phú Quốc">
                         <div class="tour-info">
                             <h3>Phú Quốc</h3>
                             <p><strong>Mã tour:</strong> T002</p>
@@ -28,7 +28,7 @@
                     </div>
             
                     <div class="tour-item">
-                        <img src="/images/tour_3.jpg" alt="Hội An">
+                        <img src="./public/img/calendar/tour_1.jpg" alt="Hội An">
                         <div class="tour-info">
                             <h3>Hội An</h3>
                             <p><strong>Mã tour:</strong> T003</p>
